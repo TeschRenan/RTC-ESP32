@@ -1,8 +1,8 @@
 #include "RTC.h"
 #include <WiFi.h>
 
-const char* ssid     = "Wifi_02";
-const char* password = "@#3515jjrr";
+const char* ssid     = "ssid";
+const char* password = "password";
 //-----OBJETOS -----------------
 RTC* rtc_esp;
 
